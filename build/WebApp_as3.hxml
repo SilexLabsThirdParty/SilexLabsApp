@@ -1,0 +1,6 @@
+-cp ../src
+-cp ../../Cocktail/src/
+-main WebApp
+-swf ../bin/WebApp.swf
+--remap js:cocktail
+-swf-version 11
